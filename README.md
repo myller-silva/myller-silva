@@ -1,4 +1,4 @@
-## Olá, eu sou o Myller, estudante de Ciência da Computação no IFCE!
+## Hi, I'm Myller, student of Computer Science at IFCE!
 <div align="center">
   <a href="https://github.com/myller-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myller-silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
